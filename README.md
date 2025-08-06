@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Gianfranco!
 
 🎓 I'm currently pursuing a **Master's degree in Data Science**  
-🔄 Currently working as a Data Scientist for a **Fintech** company in  **Milano**  
+📈 Currently working as a Data Scientist for a **Fintech** company in  **Milano**  
 🏡 Working on **Exploring How Knowledge Graphs Can Improve Basic RAG Systems**  
 
 
