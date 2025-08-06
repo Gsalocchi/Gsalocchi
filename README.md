@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Gianfranco!
 
 🎓 I'm currently pursuing a **Master's degree in Data Science**  
-🔄 Transitioning from **TensorFlow** to **PyTorch**  
-🏡 Working on **Real Estate Predictions using Deep Learning**  
+🔄 Currently working as a Data Scientist for a **Fintech** company in  **Milano**  
+🏡 Working on **Exploring How Knowledge Graphs Can Improve Basic RAG Systems**  
 
 
 ## 🚀 Tech Stack  
